@@ -1,0 +1,21 @@
+skills/vent-friction/SKILL.md
+  s_aa36f5b1cd03ac::t_b986398a99789f 1-134
+README.md
+  s_aa36f5b1cd03ac::t_a857938da53fd2 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "776bb2b8ae442c60cb6c28338a2219f96ac7b185",
+  "prompts": {},
+  "sessions": {
+    "s_aa36f5b1cd03ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "67e2d39f-1018-4828-80d8-d1265a89563b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Aleksey Bykhun <theisease@gmail.com>"
+    }
+  }
+}
